@@ -1,0 +1,19 @@
+body{
+    background-image:url("/images/galaxy.gif");
+    background-size:cover;
+    background-repeat: no-repeat;
+    height: 100%;
+}
+header{
+text-align: center;
+    align-self: center;
+    color: white;
+    margin-bottom: 90px;
+    background-color: rgba(255, 255, 255, 0.3);
+    border-radius: 50px;
+}
+main{
+    text-align: center;
+    background-color: rgba(255, 255, 255, 0.3);
+    border-radius: 50px;
+}
